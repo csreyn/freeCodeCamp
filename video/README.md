@@ -1,1 +1,1 @@
-This folder for video assets
+This folder is for video assets.
